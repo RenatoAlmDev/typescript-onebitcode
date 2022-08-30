@@ -1,0 +1,12 @@
+4 funções:
+
+- A primeira deve salvar um objeto spaceship com as seguintes propriedades:
+name, pilot e crewLimit que deverão ser inseridos pelo usuário
+crew que deve ser um array vazio
+inMission que deve começar como false;
+
+- A segunda função deverá adicionar um membro à tripulação de uma determinada nave. No entanto o tamanho máximo não pode ser excedido;
+
+- A terceira deverá enviar uma determinada nave em uma missão caso ela já não esteja. para isso, é preciso que 1/3 da sua tripulação esteja preenchia (arredondando pra baixo);
+
+- A quarta função deverá listar todas as naves registradas e suas respectivas informações.
